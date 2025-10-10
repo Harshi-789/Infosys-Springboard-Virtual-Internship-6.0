@@ -1,11 +1,13 @@
 # Infosys-Springboard-Virtual-Internship-6.0
 Infosys Springboard 6.0 Internship on Artificial Intelligence — developed and implemented intelligent solutions using Python and ML frameworks.
 
-------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
 
 🧠 Artificial Intelligence & Machine Learning
 
 Artificial Intelligence (AI) helps machines act like humans, while Machine Learning (ML) allows them to learn from data and improve automatically. These technologies are used in many fields like healthcare, business, and education.
+
+--------------------------------------------------------------------------------------------
 
 📌 Table of Contents
 
@@ -23,6 +25,8 @@ Projects in This Repository
 
 Conclusion
 
+--------------------------------------------------------------------------------------------
+
 📘 Overview
 
 This repository includes simple projects and notebooks related to Artificial Intelligence and Machine Learning.
@@ -35,6 +39,8 @@ Understanding data preprocessing and visualization
 Implementing basic algorithms like clustering and data analysis
 
 All projects are written in Python using libraries like NumPy, Pandas, Matplotlib, and Seaborn.
+
+--------------------------------------------------------------------------------------------
 
 🤖 What is Artificial Intelligence
 
@@ -49,6 +55,8 @@ Adapt to new situations
 
 Examples: voice assistants, recommendation systems, and chatbots.
 
+--------------------------------------------------------------------------------------------
+
 📊 What is Machine Learning
 
 Machine Learning is a part of AI that teaches computers to learn from data without being directly programmed.
@@ -61,6 +69,8 @@ Predicting prices
 Classifying emails as spam or not
 
 Grouping similar items or users
+
+--------------------------------------------------------------------------------------------
 
 🧩 Python Libraries Used
 🧮 NumPy
@@ -83,6 +93,8 @@ Used for creating graphs and charts to see data visually.
 Used for advanced and beautiful data visualizations.
 ✅ Example: visualizing relationships and distributions between features.
 
+--------------------------------------------------------------------------------------------
+
 ⚙️ Machine Learning Topics
 
 1️⃣ Classification
@@ -99,3 +111,12 @@ Used to predict continuous values.
 
 Used to group similar data points together.
 🧩 Example: Dividing customers into groups based on buying behavior.
+
+--------------------------------------------------------------------------------------------
+
+🏁 Conclusion
+
+This repository is a small collection of my learning journey in AI and Machine Learning.
+It helps to understand how to work with data, visualize it, and apply simple ML algorithms.
+
+Perfect for beginners and students who want to start exploring the world of Artificial Intelligence and Machine Learning.
