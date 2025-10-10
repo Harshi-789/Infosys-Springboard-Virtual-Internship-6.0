@@ -30,6 +30,7 @@ Conclusion
 📘 Overview
 
 This repository includes simple projects and notebooks related to Artificial Intelligence and Machine Learning.
+
 It focuses on:
 
 Learning the basics of AI and ML
@@ -73,24 +74,29 @@ Grouping similar items or users
 --------------------------------------------------------------------------------------------
 
 🧩 Python Libraries Used
+
 🧮 NumPy
 
 Used for working with numbers, arrays, and mathematical operations.
+
 ✅ Example: performing matrix operations and calculations.
 
 🧾 Pandas
 
 Used for handling and analyzing data easily.
+
 ✅ Example: reading CSV files, cleaning missing values, and exploring data.
 
 📉 Matplotlib
 
 Used for creating graphs and charts to see data visually.
+
 ✅ Example: plotting bar charts, line charts, and scatter plots.
 
 🌈 Seaborn
 
 Used for advanced and beautiful data visualizations.
+
 ✅ Example: visualizing relationships and distributions between features.
 
 --------------------------------------------------------------------------------------------
@@ -100,17 +106,20 @@ Used for advanced and beautiful data visualizations.
 1️⃣ Classification
 
 Used to group data into categories.
-🧩 Example: Predicting whether an email is spam or not.
+
+Example: Predicting whether an email is spam or not.
 
 2️⃣ Regression
 
 Used to predict continuous values.
-🧩 Example: Predicting house prices or salaries.
+
+Example: Predicting house prices or salaries.
 
 3️⃣ Clustering
 
 Used to group similar data points together.
-🧩 Example: Dividing customers into groups based on buying behavior.
+
+Example: Dividing customers into groups based on buying behavior.
 
 --------------------------------------------------------------------------------------------
 
