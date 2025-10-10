@@ -1,6 +1,8 @@
 # Infosys-Springboard-Virtual-Internship-6.0
 Infosys Springboard 6.0 Internship on Artificial Intelligence — developed and implemented intelligent solutions using Python and ML frameworks.
 
+------------------------------------------------------------------------------------------
+
 🧠 Artificial Intelligence & Machine Learning
 
 Artificial Intelligence (AI) helps machines act like humans, while Machine Learning (ML) allows them to learn from data and improve automatically. These technologies are used in many fields like healthcare, business, and education.
